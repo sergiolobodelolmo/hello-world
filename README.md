@@ -1,4 +1,5 @@
 # hello-world
 Proyecto para empezar
 
-Aquí creo unos cambios distintos para ver mejor las diferencias.
+=======
+Este proyecto me vale para familiarizarme MINIMIMAMENTE con GIT. Igual me viene bien para ED del año que viene.
